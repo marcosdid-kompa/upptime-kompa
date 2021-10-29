@@ -4,12 +4,30 @@ repo: upptime-kompa # The name of this repository
 user-agent: marcosdid-kompa
 
 sites:
-  - name: App Kompa
+  - name: App Kompa (PAGE)
     url: https://app.kompa.com.br/
-  - name: App Kompa Homologação
+  - name: App Kompa Homologação (PAGE)
     url: https://hg.kompa.com.br/
+  - name: Portal
+    url: https://portal.kompa.com.br/
+  - name: Karmen (PAGE)
+    url: https://karmen.kompa.com.br/login
   - name: Vindi
     url: app.vindi.com.br
+  - name: Versatilis
+    url: http://sistema.globalmedclinica.com.br/globalmed/login3.aspx
+  - name: Google
+    url: https://www.google.com/
+  - name: Octadesk
+    url: https://octadesk.com
+  - name: LiveChat
+    url: https://www.livechat.com/pt/
+  - name: Twilio
+    url: https://www.twilio.com/
+  - name: Whereby
+    url: https://whereby.com/
+  - name: Sendgrid
+    url: https://sendgrid.com/
     
   
 
