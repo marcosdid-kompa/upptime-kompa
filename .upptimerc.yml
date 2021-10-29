@@ -27,6 +27,10 @@ sites:
   - name: Karmen (PAGE)
     url: https://karmen.kompa.com.br/login
     maxResponseTime: 5000
+  
+  - name: Karmen Rasa (API)
+    url: https://karmen.kompa.com.br/health
+    method: POST
     
   - name: Vindi
     url: app.vindi.com.br
