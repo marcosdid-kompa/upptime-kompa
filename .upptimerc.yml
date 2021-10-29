@@ -6,30 +6,60 @@ user-agent: marcosdid-kompa
 sites:
   - name: App Kompa (PAGE)
     url: https://app.kompa.com.br/
+    
+  - name: App Kompa (API)
+    url: https://app.kompa.com.br/pagamentos/check-user/
+    method: POST
+    maxResponseTime: 5000
+    
   - name: App Kompa Homologação (PAGE)
     url: https://hg.kompa.com.br/
+    maxResponseTime: 5000
+    
   - name: Portal
     url: https://portal.kompa.com.br/
+    maxResponseTime: 5000
+   
+  - name: Broker
+    url: https://broker.assinasaude.com.br/
+    maxResponseTime: 5000
+    
   - name: Karmen (PAGE)
     url: https://karmen.kompa.com.br/login
+    maxResponseTime: 5000
+    
   - name: Vindi
     url: app.vindi.com.br
+    maxResponseTime: 5000
+    
   - name: Versatilis
     url: http://sistema.globalmedclinica.com.br/globalmed/login3.aspx
+    maxResponseTime: 5000
+    
   - name: Google
     url: https://www.google.com/
+    icon: https://www.google.com/favicon.ico
+    maxResponseTime: 5000
+    
   - name: Octadesk
     url: https://octadesk.com
+    maxResponseTime: 5000
+    
   - name: LiveChat
     url: https://www.livechat.com/pt/
+    maxResponseTime: 5000
+    
   - name: Twilio
     url: https://www.twilio.com/
+    maxResponseTime: 5000
+    
   - name: Whereby
     url: https://whereby.com/
+    maxResponseTime: 5000
+    
   - name: Sendgrid
     url: https://sendgrid.com/
-    
-  
+    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
