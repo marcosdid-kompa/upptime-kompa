@@ -10,6 +10,8 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
+    
+  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -21,10 +23,11 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: light
-  
-  # Translation
   introTitle: "Página com os status dos serviços usados pela Kompa."
   introMessage: Abaixo temos um card com o nome do serviço e seu respectivo status
+
+# Translation
+i18n:
   activeIncidents: Ocorrências ativas
   allSystemsOperational: Todos os sistemas estão funcionando
   incidentReport: "Ocorrência #$NUMBER report →"
