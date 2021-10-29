@@ -4,12 +4,12 @@ repo: upptime-kompa # The name of this repository
 user-agent: marcosdid-kompa
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: App Kompa
+    url: https://app.kompa.com.br/
+  - name: App Kompa Homologação
+    url: https://hg.kompa.com.br/
+  - name: Vindi
+    url: app.vindi.com.br
     
   
 
