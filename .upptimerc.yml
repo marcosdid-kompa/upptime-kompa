@@ -21,8 +21,66 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: light
+  
+  # Translation
   introTitle: "Página com os status dos serviços usados pela Kompa."
   introMessage: Abaixo temos um card com o nome do serviço e seu respectivo status
+  activeIncidents: Ocorrências ativas
+  allSystemsOperational: Todos os sistemas estão funcionando
+  incidentReport: "Ocorrência #$NUMBER report →"
+  activeIncidentSummary: Aberto as $DATE posts $POSTS posts
+  incidentTitle: Ocorrência $NUMBER Detalhes
+  incidentDetails: Detalhes da Ocorrência
+  incidentFixed: Fixado
+  incidentOngoing: Em progresso
+  incidentOpenedAt: Aberto em
+  incidentClosedAt: Fechado em
+  incidentSubscribe: Escreva atualizações
+  incidentViewOnGitHub: Ver no GitHub
+  incidentCommentSummary: Postado em $DATE by $AUTHOR
+  incidentBack: ← Voltar a toda as ocorrências
+  pastIncidents: Ocorrências anteriores
+  pastIncidentsResolved: Resolvido em $MINUTES minutos com $POSTS post
+  liveStatus: Status
+  overallUptime: "Tempo de atividade geral: $UPTIME"
+  overallUptimeTitle: Tempo de atividade geral
+  averageResponseTime: "Tempo de resposta: $TIMEms"
+  averageResponseTimeTitle: Tempo de resposta
+  sevelDayResponseTime: Tempo de resposta de 7 dias
+  responseTimeMs: Tempo de resposta (ms)
+  up: Acima
+  down: Baixo
+  degraded: Degradado
+  ms: ms
+  loading: Carregando
+  navGitHub: GitHub
+  footer: ''
+  rateLimitExceededTitle: Limite de taxa excedido
+  rateLimitExceededIntro: Você excedeu o número de solicitações que pode fazer em uma hora, então terá que esperar antes de acessar este site novamente.
+  rateLimitExceededWhatDoesErrorMean: WO que esse erro significa?
+  rateLimitExceededErrorMeaning: Este site usa a API do GitHub para acessar dados em tempo real sobre o status de nossos sites. Por padrão, o GitHub permite a cada endereço IP 60 solicitações por hora, que você consumiu.
+  rateLimitExceededErrorHowCanFix: Como posso corrigir isso?
+  rateLimitExceededErrorFix: Você pode esperar mais uma hora e o limite do seu endereço IP será restaurado.
+  rateLimitExceededGeneratePAT: Aprenda a gerar um token de acesso pessoal
+  rateLimitExceededHasSet: Você tem um conjunto de tokens de acesso pessoal.
+  rateLimitExceededRemoveToken: Remover token
+  rateLimitExceededGitHubPAT: Token de acesso pessoal do GitHub
+  rateLimitExceededCopyPastePAT: Copie e cole seu token
+  rateLimitExceededSaveToken: Salvar token
+  errorTitle: Ocorreu um erro
+  errorIntro: Ocorreu um erro ao tentar obter os detalhes de status mais recentes.
+  errorText: Você pode tentar novamente em alguns instantes.
+  errorHome: Vá para a página inicial
+  pastScheduledMaintenance: Manutenção programada anterior
+  scheduledMaintenance: Manutenção agendada
+  scheduledMaintenanceSummaryStarted: Começou às $DATE para $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Começa em $DATE para $DURATION minutes
+  startedAt: Começou às
+  startsAt: Começa em
+  duration: Duração
+  durationMin: $DURATION minutos
+  incidentCompleted: Concluída
+  incidentScheduled: Agendada
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration-------------------
