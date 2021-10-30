@@ -22,19 +22,19 @@
     "url": "https://app.kompa.com.br/pagamentos/check-user/",
     "icon": "https://favicons.githubusercontent.com/app.kompa.com.br",
     "slug": "app-kompa-api",
-    "status": "degraded",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2204,
-    "timeDay": 5318,
-    "timeWeek": 2204,
-    "timeMonth": 2204,
-    "timeYear": 2204,
+    "status": "up",
+    "uptime": "99.45%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.45%",
+    "time": 2014,
+    "timeDay": 4278,
+    "timeWeek": 2014,
+    "timeMonth": 2014,
+    "timeYear": 2014,
     "dailyMinutesDown": {
-      "2021-10-30": 0
+      "2021-10-30": 9
     }
   },
   {
