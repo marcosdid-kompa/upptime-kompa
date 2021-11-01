@@ -77,7 +77,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
   theme: light
   introTitle: "Página com os status dos serviços usados pela Kompa."
-  introMessage: Abaixo temos um card com o nome do serviço e seu respectivo status
+  introMessage: Abaixo temos um card com o nome do serviço e seu respectivo status.
 
 # Translation
 i18n:
