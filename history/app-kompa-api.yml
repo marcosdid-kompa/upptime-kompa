@@ -1,7 +1,7 @@
 url: https://app.kompa.com.br/pagamentos/check-user/
-status: up
+status: degraded
 code: 200
-responseTime: 117
-lastUpdated: 2021-11-03T23:26:55.524Z
+responseTime: 8606
+lastUpdated: 2021-11-04T20:51:51.951Z
 startTime: Fri Oct 29 2021 18:36:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
