@@ -96,19 +96,19 @@
     "url": "https://karmen.kompa.com.br/login",
     "icon": "https://favicons.githubusercontent.com/karmen.kompa.com.br",
     "slug": "karmen-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 275,
-    "timeDay": 321,
-    "timeWeek": 287,
-    "timeMonth": 275,
-    "timeYear": 275,
+    "status": "up",
+    "uptime": "99.19%",
+    "uptimeDay": "91.02%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.19%",
+    "time": 273,
+    "timeDay": 306,
+    "timeWeek": 282,
+    "timeMonth": 273,
+    "timeYear": 273,
     "dailyMinutesDown": {
-      "2021-11-09": 0
+      "2021-11-09": 129
     }
   },
   {
@@ -116,19 +116,19 @@
     "url": "https://karmen.kompa.com.br/health",
     "icon": "https://favicons.githubusercontent.com/karmen.kompa.com.br",
     "slug": "karmen-rasa-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 138,
-    "timeDay": 130,
-    "timeWeek": 136,
-    "timeMonth": 138,
-    "timeYear": 138,
+    "status": "up",
+    "uptime": "99.19%",
+    "uptimeDay": "91.03%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.19%",
+    "time": 137,
+    "timeDay": 129,
+    "timeWeek": 135,
+    "timeMonth": 137,
+    "timeYear": 137,
     "dailyMinutesDown": {
-      "2021-11-09": 0
+      "2021-11-09": 129
     }
   },
   {
